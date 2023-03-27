@@ -1,0 +1,8 @@
+[theme]
+#primaryColor="#2214c7"
+primaryColor="blue"
+backgroundColor="#CAE9F5"
+secondaryBackgroundColor="#FDFEFE"
+textColor="#000000"
+font="sans serif"
+font_size=24
